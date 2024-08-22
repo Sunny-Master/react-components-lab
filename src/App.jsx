@@ -40,8 +40,7 @@ const weatherForecasts = [
     conditions: 'cloudy',
     time: 'Night',
   },
-];
-
+]
 
 function App() {
   return (

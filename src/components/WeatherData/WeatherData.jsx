@@ -1,4 +1,4 @@
-function WeatherIcon({conditions, time}) {
+function WeatherData({conditions, time}) {
   return (
     <>
       <p><span>conditions: </span>{conditions}</p>
@@ -7,4 +7,4 @@ function WeatherIcon({conditions, time}) {
   )
 }
 
-export default WeatherIcon
+export default WeatherData
